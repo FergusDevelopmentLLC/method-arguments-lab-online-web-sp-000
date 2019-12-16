@@ -2,4 +2,4 @@ def introduction (name)
   return "Hi, my name is #{name}."
 end
 
-introduction("will")
+puts introduction("will")
